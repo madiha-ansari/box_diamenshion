@@ -1,0 +1,14 @@
+body{
+margin-left: 280px;
+}
+
+ul>li{
+    display: inline-block;
+    width: 180px;
+    border-width: 2px;
+    /* border-color: #663399; */
+    /* border-style: outset; */
+    border-bottom-width: thick;
+    border-style: groove;
+    border-color: red;
+}
